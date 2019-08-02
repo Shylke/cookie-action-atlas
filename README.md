@@ -1,4 +1,4 @@
-# Cookie Action for the Discord Bot Atlas - V. 2.4.2 by *Shylke#8325*
+# Cookie Action for the Discord Bot Atlas - V. 2.5.0 by *Shylke#8325*
 
 **Disclaimer:** This is *not* an economy action, and it will never be one.
 
