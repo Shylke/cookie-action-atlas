@@ -8,7 +8,7 @@ A single action related to cookies with multiple sub-commands split into three d
 ### "Dev Commands"?
 They're called "dev" because I was the only who had access to them in my own servers while I was making this action. And you'd want to restrict the access to admins/mods alone. By doing that, replace the ID in `{if;{user.roles};includes;606515235591028756...}` with the one you want.
 
-**How to get a role ID;**
+#### How to get a role ID;
 * Server Settings - Roles - Right click the role you want - Copy ID;
 * `a!id @Role`;
 * Mention the role - put a `\` before the role - send message.
