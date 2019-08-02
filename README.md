@@ -1,1 +1,1 @@
-# cookie-action-atlas
+# Cookie Action for the Discord Bot Atlas
