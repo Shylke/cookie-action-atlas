@@ -1,4 +1,5 @@
 **Command Name:** `a!cookie`
+
 **Subcommand Name:** `a!cookie check`
 
 **Command Description:**
