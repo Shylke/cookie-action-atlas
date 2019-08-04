@@ -6,7 +6,8 @@
 Award a user with cookies.
 
 **Usage:**
-`a!cookie award <user> <amount>`
+`a!cookie award <user> <amount>` or `a!cookie award belly <user> <amount>`
+
 
 **Code:**
-```{if;{args;1};==;give;{if;{user.id};==;{user.id;{args;2}};You can't give cookies to yourself!;{perset;{user.id;{args;2}}_Balance;{math;{perget;{user.id;{args;2}}_Balance}+1}}{a!say;{user.username} has given :cookie:1 cookie to {user.mention;{args;2}}!}};}```
+```{if;{args;1};==;award;{if;{user.roles};includes;606515235591028756;{if;{args;2};==;belly;{perset;{user.id;{args;3}}_Belly;{math;{perget;{user.id;{args;3}}_Belly}+{args;4}}}You fed **{user.tag;{args;3}}** :cookie:{args;4} cookie(s).;{perset;{user.id;{args;2}}_Balance;{math;{perget;{user.id;{args;2}}_Balance}+{args;3}}}You gave :cookie:{args;3} cookie(s) to **{user.tag;{args;2}}**.};You're not allowed to do that.};}```
