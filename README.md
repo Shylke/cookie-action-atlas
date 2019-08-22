@@ -22,7 +22,7 @@ After eating a certain amount of cookies, you're given a role. You *should* prob
 As I said before, there are two persets per user: balance and belly. Consider the former the amount of cookies you hold or keep in a jar or something, and the latter the amount of cookies you have eaten. Additionally, you can only steal the amount of cookies a user has "on hand", but a mod or an admin can change or reset both values at any time.
 
 ### What if I Don't Want Cookies?
-Then go ahead and change every bit in my code that refers to cookies. ¯\_(ツ)_/¯
+Then go ahead and change every bit in my code that refers to cookies. \¯\_(ツ)_/¯
 
 ## What's the Idea Behind This?
 A friend and I wanted a command that would let you give virtual cookies to each other. I started out with a simple command scraped from JaM's Antiping, then tweaked to fit what I wanted to do. As I edited my action to make sure it had no errors, both my friend and I came up with other ideas and turned them into the many subcommands that there are today.
