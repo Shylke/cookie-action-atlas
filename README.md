@@ -28,7 +28,9 @@ Then go ahead and change every bit in my code that refers to cookies. ¯\_(ツ)_
 A friend and I wanted a command that would let you give virtual cookies to each other. I started out with a simple command scraped from JaM's Antiping, then tweaked to fit what I wanted to do. As I edited my action to make sure it had no errors, both my friend and I came up with other ideas and turned them into the many subcommands that there are today.
 
 ## Why Isn't This on the [Custom Action Repository](https://github.com/doddsy/atlas-custom-actions)?
-Unfortunately it doesn't follow the requirements, and as for now this action is more a mess than anything. That being said, you're free to look around and grab the code to use on your own server, provided you have enough knowledge of Discord and Atlas.
+~~Unfortunately it doesn't follow the requirements, and as for now this action is more a mess than anything. That being said, you're free to look around and grab the code to use on your own server, provided you have enough knowledge of Discord and Atlas.~~
+
+It is now. Still, keep an eye on this repo as well for potential future updates — you'll never know.
 
 
 
