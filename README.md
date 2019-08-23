@@ -2,6 +2,11 @@
 
 **Disclaimer:** This is *not* an economy action, and it will never be one.
 
+## New Features and Fixes
+* `a!cookie throw` subcommands;
+* Subcommands and other variables are case insensitive now;
+* Now it should properly award a role.
+
 ## What is It?
 A single action related to cookies with multiple sub-commands that makes use of two persets per user. With a limit of 500 persistent variables per server, ideally it should work in a server with 250 members or less.
 
