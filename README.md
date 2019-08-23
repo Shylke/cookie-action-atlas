@@ -6,6 +6,7 @@
 * `a!cookie throw` subcommands;
 * Subcommands and other variables are case insensitive now;
 * Now it should properly award a role.
+* Now it should also un-award the role if the belly amount goes lower than 100.
 
 ## What is It?
 A single action related to cookies with multiple sub-commands that makes use of two persets per user. With a limit of 500 persistent variables per server, ideally it should work in a server with 250 members or less.
