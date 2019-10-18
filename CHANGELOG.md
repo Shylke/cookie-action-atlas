@@ -6,4 +6,4 @@
 * Fixed that other bug where the bot wouldn't check if the user existed before messing with their balance. 
 
 ### Example 
-![Before](https://imgur.com/DRurAWn)
+![Before](https://i.imgur.com/DRurAWn.png)
