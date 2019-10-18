@@ -1,4 +1,4 @@
-# Cookie Action - V. 4.1.7
+# Cookie Action - Ver. 4.1.7
 
 ## Bug Fixes
 
