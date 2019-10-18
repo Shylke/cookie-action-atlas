@@ -25,3 +25,4 @@
 * `a!cookie reset` now asks you whetever you're sure to do it, and gives you 30 seconds to reply;
 * `a!cookie check` now gives a little flair message if your amount is below 0; 
 * This page.
+* Updated README.md as well.
