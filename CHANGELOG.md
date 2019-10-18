@@ -6,9 +6,11 @@
 * Fixed that other bug where the bot wouldn't check if the user existed before messing with their balance; 
 ### Example 
 **Before:**
+
 ![Before](https://i.imgur.com/DRurAWn.png)
 
 **After:**
+
 ![After](https://i.imgur.com/yteyLCp.png)
 
 * The empty number bug hasn't been fixed globally, but now there is a command to fix it for yourself.
