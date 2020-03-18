@@ -1,3 +1,6 @@
+# Cookie Action - *Ver. 4.2.5*
+
+
 # Cookie Action - *Ver. 4.1.7*
 
 ## Bug Fixes
