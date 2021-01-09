@@ -9,12 +9,13 @@
 * You can now change the name's and emoji's currency (deafault is `cookie(s)` and `🍪`).
 * New variables: `EmojiBal`, `NameBal` (with its respective variants: `NameBalS`, `NameBalP`, `NameBalCS`, `NameBalCP`), and `NameAction`.
 * Renamed `CookieAmount` to `BalanceAmount`, and `CookieAmountBelly` to `BellyAmount`.
-* Added 1 random response for `a!cookie sacrifice`
+* Added 1 random response for `a!cookie sacrifice`.
 
 ## Roadmap
 * Remove the Role Reward when it goes under the thresold when using `a!cookie remove`.
-* `a!cookie reset` should tell when someone's balance is already 0. *Low priority*
-* Checking someone else's cookie balance should set it to zero, should their value be null. *High priority*
+* `a!cookie reset` should tell when someone's balance is already 0. ***Low priority***
+* Checking someone else's cookie balance should set it to zero, should their value be null. ***High priority***
+* Move some of the subcommands to the second action script since the first one hit the 15k limit. ***High priority***
 
 
 
