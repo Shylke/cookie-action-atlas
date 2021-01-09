@@ -1,14 +1,26 @@
-```{set;version;4.3.0}```
+```{set;version;5.2.6}```
 
-```{set;AdminID;683025562868252695}```
+```{set;AdminID;732339350792044755}```
 
-```{set;RoleRewardID;689910482449989705}```
+```{set;RoleRewardID;732339876049059850}```
 
-```{set;RoleRewardBellyID;683025531045937204}```
+```{set;RoleRewardBellyID;732339434229334167}```
 
-```{set;CookieAmount;100}```
+```{set;BalanceAmount;100}```
 
-```{set;CookieAmountBelly;100}```
+```{set;BellyAmount;100}```
+
+```{set;EmojiBal;:cookie:}```
+
+```{set;NameBalS;cookie}}```
+
+```{set;NameBalP;cookies}```
+
+```{set;NameBalCS;Cookie}```
+
+```{set;NameBalCP;Cookies}```
+
+```{set;NameAction;cookie}```
 
 
 These are at the top of the action script. You're supposed to replace the IDs with the ones in your server. In the rewards sets, you can remove the IDs altogether if you wish to disable rewards altogether.
