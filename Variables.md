@@ -23,4 +23,4 @@
 ```{set;NameAction;cookie}```
 
 
-These are at the top of the action script. You're supposed to replace the IDs with the ones in your server. In the rewards sets, you can remove the IDs altogether if you wish to disable rewards altogether.
+These are at the top of the action script. You're supposed to replace the IDs with the ones in your server. In the rewards sets, you can remove the IDs altogether if you wish to disable rewards altogether. `NameBal` has 4 different variations: singular (S), plural (P), (first letter) capitalized singular (CS), (first letter) capitalized plural (CP). Additionally, there is also a `NameAction` variable, which does exactly what you expect it to do. Only change its content if you happen to change the command's name.
