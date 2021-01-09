@@ -1,7 +1,26 @@
+# Cookie Action - *Ver. 5.2.6*
+
+## Bug Fixes
+* Fixed `a!cookie award/remove` accepting null values, or any other value that wasn't a number.
+* Fixed the balance reward role relying on *belly* balance.
+
+## New Features
+* `a!cookie set` — similar to `a!cookie award/remove` but sets a value instead of adding/removing it. For when you're too lazy to do the math.
+* You can now change the name's and emoji's currency (deafault is `cookie(s)` and `🍪`).
+* New variables: `EmojiBal`, `NameBal` (with its respective variants: `NameBalS`, `NameBalP`, `NameBalCS`, `NameBalCP`), and `NameAction`.
+* Renamed `CookieAmount` to `BalanceAmount`, and `CookieAmountBelly` to `BellyAmount`.
+* Added 1 random response for `a!cookie sacrifice`
+
+## Roadmap
+* Remove the Role Reward when it goes under the thresold when using `a!cookie remove`.
+* `a!cookie reset` should tell when someone's balance is already 0. *Low priority*
+* Checking someone else's cookie balance should set it to zero, should their value be null. *High priority*
+
+
+
 # Cookie Action - *Ver. 4.4.0*
 
 ## Bug Fixes 
-
 * Fixed the long ass message when it included the reward part as well.
 
 ### Example
