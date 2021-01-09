@@ -32,7 +32,7 @@ A friend and I wanted a command that would let you give virtual cookies to each 
 Because the action you saw on the CAR is outdated and filled with bugs. I periodically go through the code and fix and tweak some things, occasionally adding new features, and this repo is where I keep track of said stuff.
 
 ## I Don't Know How to Use Actions at All! Can Someone Help Me?
-If you need help with actions, you can join [Atlas' support server](https://discordapp.com/invite/AXXBPM7). But generally, unless you know what you're doing, it's best to only set the required variables, and leave the rest as it is.
+If you need help with setting this action up, you can join [Atlas' support server](https://discordapp.com/invite/AXXBPM7), head to the **#actions** channel, and tag me (**@Shylke#8325**) for further assistance. But generally, unless you know what you're doing, it's best to only set the required variables, and leave the rest as it is.
 
 
 
