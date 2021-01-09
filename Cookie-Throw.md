@@ -18,4 +18,4 @@ Get rid of cookies.
 {if;{get;throw};==;2;{if;{perget;{user.id}_Balance};<=;0;:slight_frown: You don't have any {get;NameBalP} to throw away...;:toilet: You threw away **{perget;{user.id}_Balance}** {if;{perget;{user.id}_Balance};==;1;{get;NameBalS};{get;NameBalP}}!{perset;{user.id}_Balance;0}};}
 
 {if;{get;throw};==;3;{if;{perget;{user.id}_Belly};<=;0;:slight_frown: You don't have any {get;NameBalP} to throw up...;{perset;{user.id}_Belly;{math;{perget;{user.id}_Belly}-1}}:nauseated_face: You threw up a {get;NameBalS}...};}
-{if;{get;throw};==;4;{if;{perget;{user.id}_Belly};<=;0;:slight_frown: You don't have any {get;NameBalP} to throw up...;:nauseated_face: You threw away **{perget;{user.id}_Belly}** {if;{perget;{user.id}_Balance};==;1;{get;NameBalS};{get;NameBalP}}...{perset;{user.id}_Belly;0}};}```
+{if;{get;throw};==;4;{if;{perget;{user.id}_Belly};<=;0;:slight_frown: You don't have any {get;NameBalP} to throw up...;:nauseated_face: You threw away **{perget;{user.id}_Belly}** {if;{perget;{user.id}_Balance};==;1;{get;NameBalS};{get;NameBalP}}...{perset;{user.id}_Belly;0}};}
