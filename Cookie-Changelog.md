@@ -10,4 +10,4 @@ Gets the latest changelog.
 
 
 **Code:** 
-```{if;{args;1};==;changelog;{a!ae;--title=":cookie: Cookie Command {get;version} Changelog :cookie:";--color="#8e715a";--footer="Created by Shylke#8325";--timestamp="true";--description="[**You can read the full changelog here**](https://github.com/Shylke/cookie-action-atlas/blob/master/CHANGELOG.md)."}}```
+```{if;{args;1};==;changelog;{a!ae;--title="{get;NameBalCS} Ver. {get;version} Changelog";--color="#8e715a";--footer="Created by Shylke#8325";--timestamp="true";--description="[**You can read the full changelog here**](https://github.com/Shylke/cookie-action-atlas/blob/master/CHANGELOG.md)."}}```
