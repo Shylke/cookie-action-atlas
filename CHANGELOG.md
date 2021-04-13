@@ -1,3 +1,19 @@
+# Cookie Action - *Maintenance Version / 5.3.0*
+
+**Notice: I will not be *actively* working on this version anymore. Bug fixes may still happen here and there but don't expect me to add new features anymore.**
+
+## Bug Fixes and Tweaks
+* Removed the capitalized versions of the `{NameBalS}` and `{NameBalP}` variables, found aother way to make it work.
+* Optimized code for the `a!cookie help` command.
+* Merged the `a!cookie changelog` command into `a!cookie info` and added some helpful links.
+* Replace all the `a!say`s with `{channel.send}` (as the first requires Manages Messages for it to work).
+* Fixed the reward roles code not taking away the role(s) when a user's amount is under the threshold.
+* Fixed the `a!cookie award` command not working.
+* New variable for changing the embed's accent color (in the `a!cookie help/info` commands).
+... and the most important of all:
+* With these changes went under the 15k limit!
+
+
 # Cookie Action - *Ver. 5.2.6*
 
 ## Bug Fixes
